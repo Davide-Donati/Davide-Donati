@@ -1,0 +1,1 @@
+Place a file called CV.pdf in this folder. The navigation link already points to assets/CV.pdf.
